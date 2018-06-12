@@ -48,7 +48,7 @@ int main()
     }
     else
     {
-        printf("Parent rocess \n");
+        printf("Parent Process \n");
         sleep(1);
         /*This is parent process*/
         char stdi[80];
